@@ -1,8 +1,9 @@
 # InfoGTool v1.0
+InfoG is a Shellscript to perform Information Gathering 
 ## Author: github.com/ThatBynln
 ### https://Thatbynln.github.io
 
-InfoG is a Shellscript to perform Information Gathering 
+
 
 ![it](https://user-images.githubusercontent.com/107451824/178931408-dfbee77c-43a9-43a7-875b-e2e77b4f2b7b.png)
 
