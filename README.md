@@ -26,7 +26,7 @@ InfoG is a Shellscript to perform Information Gathering
 ### Usage:
 ```
 git clone https://github.com/thatbynln/infogtool
-cd infogtool
+cd InfoGTool
 bash infogtool.sh
 ```
 
